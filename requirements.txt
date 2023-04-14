@@ -26,4 +26,4 @@ pydantic==1.10.2
 jupyter
 celery
 pika
-streamlit
+streamlit~=1.21.0
